@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Comparação de Métodos de Ordenação</title>
 </head>
 <body>
   <h1>Comparação de Métodos de Ordenação</h1>
